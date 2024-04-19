@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShaikMohammadSharif
-- 👀 I’m interested in ...python
+- 👋 Hi, I’m @Shaik Mohammad Sharif
+- 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ...Python
-- 📫 How to reach me ...moulasharif07@gmail.com
+- 📫 How to reach me ... moulasharif07@gmail.com
 
 <!---
 ShaikMohammadSharif/ShaikMohammadSharif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
